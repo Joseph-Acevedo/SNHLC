@@ -28,3 +28,5 @@ Given the list *{1, 3, 2, 3, 4, 5, 5, 3}* the output would would be *{3, 5, 1, 2
 The SNN is given an ordered list to begin with, *{1, 2,..., k}*, and the only operation it can perform on the list to get to the correct answer is to swap two elements in the list.
 
 **More information will be posted at a later date. The results of this test should be available soon**
+
+The next test will be using a modified version of NEAT for every Stratum, where a new innovation is adding a different type of activation function to the Stratum. All neurons begin with the same activation function, and through innovations they can be changed.
