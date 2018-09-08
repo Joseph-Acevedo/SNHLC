@@ -1,6 +1,6 @@
 # SNN
 
-Stratified Neural Networks (SNNs), not to be confused with Spiking Neural Networks, is an achitecture for neural networks that is currently under development and being tested in hopes of being used to create a different network architecture that can allow for more built in complexity.
+Stratified Neural Networks (SNNs), not to be confused with Spiking Neural Networks, is an achitecture for neural networks that is currently under development by undergraduate students Joseph Acevedo, Reeshad Arian and Archie Shahidullah, and being tested in hopes of being used to create a different network architecture that can allow for more built in complexity.
 
 The defining aspect of an SNN are the Stratum. Each Stratum in an SNN is an entire network in itself. The network mutates in ways similar to how a Compositional Pattern-Producing Network (CPPN) does in that the activation function of each neuron can be changed to allow for 'bundling' of neurons.
 
