@@ -29,4 +29,4 @@ The SNN is given an ordered list to begin with, *{1, 2,..., k}*, and the only op
 
 **More information will be posted at a later date. The results of this test should be available soon**
 
-The next test will be using a modified version of NEAT for every Stratum, where a new innovation is adding a different type of activation function to the Stratum. All neurons begin with the same activation function, and through innovations they can be changed.
+The next test will be using a modified version of NEAT for every Stratum, where a new innovation is introducing a different type of activation function to the Stratum. All neurons begin with the same activation function, and through innovations they can be changed.
